@@ -66,7 +66,8 @@ print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 
 
 ### Output:
-![{321BC565-0BAD-4AF7-8F52-07DBAA05573C}](https://github.com/user-attachments/assets/3583665e-3f9c-4767-b54e-8d76af215c7b)
+![{F99565CB-6C39-4E15-83FA-C1EAE9D61B20}](https://github.com/user-attachments/assets/504eb478-ce60-4306-9072-011a66ca4343)
+
 
 
 
