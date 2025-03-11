@@ -49,7 +49,8 @@ print(minimax(0, 0, True, scores,treeDepth))
 
 
 ### Output:
-![{2211FB12-6542-4F0C-8FBE-C6BC26BC6759}](https://github.com/user-attachments/assets/7b458b7b-0fff-4fdf-b0df-0ca1e9ebed8f)
+![{11C4E41E-D368-41FC-94EA-409F5F01F885}](https://github.com/user-attachments/assets/ba5ccda8-bbad-4065-aca7-e5e53ad8a57a)
+
 
 
 
