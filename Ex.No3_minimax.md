@@ -36,10 +36,8 @@ def minimax(depth, index, is_max, values, alpha, beta):
 
     return best
 
-values = [2,3,4,2,3,6,2,-1,4,5,6,-5,2,-2]
+values = [3, 5, 6, 9, 1, 2, 0, -1]
 print("The optimal value is:", minimax(0, 0, True, values, float('-inf'), float('inf')))
-
-
 
 ### Output:
 ![WhatsApp Image 2025-03-11 at 11 25 17_b3409211](https://github.com/user-attachments/assets/92c35551-9a62-42b1-8793-1c28561168ff)
