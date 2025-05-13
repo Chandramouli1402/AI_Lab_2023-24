@@ -2,8 +2,10 @@
 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222040121
+
 ### AIM: 
 To write a program to train the classifier for a Medicine Recommendation System using Supervised Learning (SVM algorithm).
+
 ###  Algorithm:
 1.Start the program.
 
@@ -69,9 +71,9 @@ def index():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-
-
-
+### OUTPUT:
+![Screenshot 2025-05-13 103209](https://github.com/user-attachments/assets/49b13ca9-2000-4f25-9f86-3f5f42b1186e)
+![Screenshot 2025-05-13 103320](https://github.com/user-attachments/assets/7b039801-d06e-4431-a8d5-a122bc0ff7c9)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
