@@ -1,7 +1,7 @@
 # Ex.No: 13 Learning – Use Supervised Learning  
 
 ### DATE:                                                                            
-### REGISTER NUMBER : 212222040121
+### REGISTER NUMBER : 212222040028
 
 ### AIM: 
 To write a program to train the classifier for a Medicine Recommendation System using Supervised Learning (SVM algorithm).
